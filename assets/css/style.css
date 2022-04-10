@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inconsolata:wght@600&family=Montserrat:ital,wght@0,500;1,500&display=swap');
+
+body {
+    background-color: #1d1f28 !important;
+}
+.navbar .container {
+    padding: 8px 0;
+    font-size: 15px;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    margin-left: 15px;
+    font-weight: bold;
+    color: rgb(221, 221, 221);
+    font-family: monospace;
+    text-shadow:  #2bff00 1px 1px 10px;
+    font-size: 20px;
+}
+
+.navbar-dark .navbar-brand {
+    color: rgb(221, 221, 221);
+}
+
+.navbar-brand{
+    margin-left: 15px;
+    font-weight:bold;
+    font-family: monospace;
+    text-shadow: #44FF00 1px 1px 10px;
+    font-size: 20px;
+}
+.jumbotron {
+    color: rgb(221, 221, 221);
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+}
+.jumbotron p{
+    font-family: monospace;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.display-4{
+    margin-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-shadow: red 2px 1px 10px;
+}
+
+.icon {
+    padding: 3px;
+    color:aliceblue
+}
